@@ -43,7 +43,3 @@ No compilation or build tooling is required.
 3. Click anywhere on the map to open the workout entry form.
 4. Select the activity type (Running or Cycling), enter the details, and press `Enter` to record the workout.
 5. Click on any workout card in the sidebar to center the map on that workout.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).

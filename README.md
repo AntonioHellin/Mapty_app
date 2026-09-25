@@ -27,8 +27,8 @@ No compilation or build tooling is required.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AntonioHellin/Mapty_app.git
-   cd Mapty_app
+   git clone https://github.com/AntonioHellin/mapty-workout-tracker.git
+   cd mapty-workout-tracker
    ```
 
 2. Serve locally using any static web server:
